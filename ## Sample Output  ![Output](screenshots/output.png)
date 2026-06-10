@@ -32,3 +32,6 @@ student-performance-prediction/
 
 ```bash
 git clone <repository-url>
+## Sample Output
+
+![Output](screenshots/output.png)
